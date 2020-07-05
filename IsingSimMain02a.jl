@@ -52,7 +52,6 @@ end
 
 function getB(i, d=d)
     B0 = 0
-    B0 = (i % 40 == 0) ? 10 : 0
     B0
 end
 
